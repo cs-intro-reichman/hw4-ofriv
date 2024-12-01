@@ -27,7 +27,7 @@ public class KeywordsDetector {
             {
                 if(MyString.contains(sentences[i], keywords[j]))
                 {
-                    System.out.println(keywords[j]);
+                    System.out.println(sentences[i]);
                 }
             }
         }
