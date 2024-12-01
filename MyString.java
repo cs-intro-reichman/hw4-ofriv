@@ -13,6 +13,7 @@ public class MyString {
         System.out.println(contains("personality", "son")); // true
         System.out.println(contains("personality", "dad")); // false
         System.out.println(contains("resignation", "sign")); // true
+        System.out.println(lowerCase("The team showed great Synergy in the last project"));
 
         }
     
